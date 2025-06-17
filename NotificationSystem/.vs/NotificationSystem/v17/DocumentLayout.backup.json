@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|solutionrelative:subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|c:\\users\\ovovw\\source\\repos\\notificationsystem\\subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|solutionrelative:subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\sendviaemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|solutionrelative:sendviaemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\sendviamobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|solutionrelative:sendviamobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1512D71D-A80F-4670-B66D-4DE06747A463}|NotificationSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionForm.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\SubscriptionForm.cs",
+              "RelativeDocumentMoniker": "SubscriptionForm.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\SubscriptionForm.cs",
+              "RelativeToolTip": "SubscriptionForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:16:47.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SendViaMobile.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\SendViaMobile.cs",
+              "RelativeDocumentMoniker": "SendViaMobile.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\SendViaMobile.cs",
+              "RelativeToolTip": "SendViaMobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:53:53.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendViaEmail.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\SendViaEmail.cs",
+              "RelativeDocumentMoniker": "SendViaEmail.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\SendViaEmail.cs*",
+              "RelativeToolTip": "SendViaEmail.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:53:19.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriptionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\SubscriptionForm.cs",
+              "RelativeDocumentMoniker": "SubscriptionForm.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\SubscriptionForm.cs [Design]",
+              "RelativeToolTip": "SubscriptionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:01:57.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:40:54.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAD4v2AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:35:54.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\NotificationSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:35:21.968Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

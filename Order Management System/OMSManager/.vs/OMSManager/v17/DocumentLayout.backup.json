@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\viewmodels\\addnewitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:viewmodels\\addnewitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\models\\shopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\data\\omscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\views\\listorderdetailsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:views\\listorderdetailsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\viewmodels\\listorderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:viewmodels\\listorderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\views\\listorderdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:views\\listorderdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\views\\addnewitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:views\\addnewitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\views\\addnewitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:views\\addnewitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\data\\omscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\viewmodels\\productdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:viewmodels\\productdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\omsmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\omsmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:omsmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|c:\\users\\ovovw\\source\\repos\\omsmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBF6FE70-9CB4-401A-A67E-5F2E675F76CE}|OMSManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\migrations\\20250329015118_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608588AE-2908-4DF3-8F9A-A498091C0B02}|..\\OMSModels\\OMSModels.csproj|c:\\users\\ovovw\\source\\repos\\omsmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Repositories\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "..\\OMSModels\\Repositories\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Repositories\\BasketRepository.cs",
+              "RelativeToolTip": "..\\OMSModels\\Repositories\\BasketRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:56:04.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddNewItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\ViewModels\\AddNewItemViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddNewItemViewModel.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\ViewModels\\AddNewItemViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddNewItemViewModel.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAhwGMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:32:49.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Models\\BasketItem.cs",
+              "RelativeDocumentMoniker": "..\\OMSModels\\Models\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Models\\BasketItem.cs",
+              "RelativeToolTip": "..\\OMSModels\\Models\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:44:02.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\OMSModels\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Models\\Product.cs",
+              "RelativeToolTip": "..\\OMSModels\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:43:42.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shopper.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Models\\Shopper.cs",
+              "RelativeDocumentMoniker": "..\\OMSModels\\Models\\Shopper.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Models\\Shopper.cs",
+              "RelativeToolTip": "..\\OMSModels\\Models\\Shopper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:43:03.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Models\\Basket.cs",
+              "RelativeDocumentMoniker": "..\\OMSModels\\Models\\Basket.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Models\\Basket.cs",
+              "RelativeToolTip": "..\\OMSModels\\Models\\Basket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:42:13.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Data\\OMSContext.cs",
+              "RelativeDocumentMoniker": "..\\OMSModels\\Data\\OMSContext.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Data\\OMSContext.cs",
+              "RelativeToolTip": "..\\OMSModels\\Data\\OMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:45:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:30:29.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListOrderDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\ViewModels\\ListOrderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ListOrderDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\ViewModels\\ListOrderDetailsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ListOrderDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:21:48.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T20:30:34.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListOrderDetailsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Views\\ListOrderDetailsView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ListOrderDetailsView.xaml.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Views\\ListOrderDetailsView.xaml.cs",
+              "RelativeToolTip": "Views\\ListOrderDetailsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:48:17.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListOrderDetailsView.xaml",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Views\\ListOrderDetailsView.xaml",
+              "RelativeDocumentMoniker": "Views\\ListOrderDetailsView.xaml",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Views\\ListOrderDetailsView.xaml",
+              "RelativeToolTip": "Views\\ListOrderDetailsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T02:47:39.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddNewItemView.xaml",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Views\\AddNewItemView.xaml",
+              "RelativeDocumentMoniker": "Views\\AddNewItemView.xaml",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Views\\AddNewItemView.xaml",
+              "RelativeToolTip": "Views\\AddNewItemView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T02:16:21.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddNewItemView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Views\\AddNewItemView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AddNewItemView.xaml.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Views\\AddNewItemView.xaml.cs",
+              "RelativeToolTip": "Views\\AddNewItemView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:41:56.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OMSContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Data\\OMSContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\OMSModels\\Data\\OMSContextFactory.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Data\\OMSContextFactory.cs",
+              "RelativeToolTip": "..\\OMSModels\\Data\\OMSContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:46:29.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:35:28.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\ViewModels\\ProductDisplay.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductDisplay.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\ViewModels\\ProductDisplay.cs",
+              "RelativeToolTip": "ViewModels\\ProductDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:51:42.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:59:55.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OMSModels.csproj",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\OMSModels.csproj",
+              "RelativeDocumentMoniker": "..\\OMSModels\\OMSModels.csproj",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\OMSModels.csproj",
+              "RelativeToolTip": "..\\OMSModels\\OMSModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T20:41:05.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OMSManager.csproj",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\OMSManager.csproj",
+              "RelativeDocumentMoniker": "OMSManager.csproj",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\OMSManager.csproj",
+              "RelativeToolTip": "OMSManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T20:36:06.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250329015118_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Migrations\\20250329015118_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\OMSModels\\Migrations\\20250329015118_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Migrations\\20250329015118_InitialCreate.cs",
+              "RelativeToolTip": "..\\OMSModels\\Migrations\\20250329015118_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:51:18.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSManager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T01:46:07.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\OMSModels\\Class1.cs",
+              "ToolTip": "C:\\Users\\ovovw\\source\\repos\\OMSModels\\Class1.cs",
+              "RelativeToolTip": "..\\OMSModels\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:35:10.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿<Window x:Class="OMSManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:OMSManager"
+        Title="Order Manager" Height="500" Width="850">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Border Grid.Row="0" Background="#5C9CA4" Padding="10">
+            <TextBlock Text="Manage Orders" FontSize="26" Foreground="White" HorizontalAlignment="Center"/>
+        </Border>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,10">
+            <Button Content="List Order Details" Width="150" Background="LightSkyBlue" Margin="5,0" Click="ListOrderDetails_Click"/>
+            <Button Content="Add Item to Order" Width="150" Background="LightYellow" Margin="5,0" Click="AddItemToOrder_Click"/>
+            <Button Content="Exit" Width="100" Background="RoyalBlue" Foreground="White" Margin="5,0" Click="Exit_Click"/>
+        </StackPanel>
+
+        <!-- View Area -->
+        <ContentControl Grid.Row="2" x:Name="MainContentControl" Margin="0,10,0,0"/>
+    </Grid>
+</Window>
